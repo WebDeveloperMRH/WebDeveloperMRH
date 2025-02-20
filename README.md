@@ -1,3 +1,6 @@
+
+<img src="https://media.licdn.com/dms/image/v2/C5616AQFum_tM0gwOzg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1635171941487?e=1745452800&v=beta&t=0F3Nd575hmqZkh-NhWLAmgm_zkiid4TqokBtb_MKKpA">
+
 <h1 align="center">Hi 👋, I'm Rabiul Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
